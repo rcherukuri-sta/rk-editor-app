@@ -14,7 +14,7 @@
     "bootstrap": "5.3.3",
     "crypto-js": "4.2.0",
     "html-react-parser": "5.1.1",
-    "cke-8201": "2.2.11",
+    "rk-editor": "2.2.11",
     "lodash": "4.17.21",
     "mathlive": "0.69.10",
     "pdfmake": "0.2.7",
