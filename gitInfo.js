@@ -15,7 +15,7 @@ const execSyncWrapper = (command) => {
 
 const main = () => {
   let gitVersion = execSyncWrapper('git describe --abbrev=0');
-  const kriVersion = package_json.dependencies['cke-8201'];
+  const kriVersion = package_json.dependencies['rk-editor'];
 
   const gitInfo = {
     gitVersion,

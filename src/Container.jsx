@@ -1,6 +1,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import { CKEditorBase } from 'cke-8201'
+import { CKEditorBase } from 'rk-editor'
 
 function Container({data}) {
 
